@@ -6,7 +6,7 @@ the extension for magento 2 to add province, district, subdistrict, zip code use
 
 - add custom attribute subdistrict to customer_address_entity, quote_address, sales_order_address
 - change state/province, city/district, subdistrict, zipcode to dropdown
-- admin province, district, subdistrict, city data managements
+- admin province, district, subdistrict, zipcode data managements
 
 # Testing
 
