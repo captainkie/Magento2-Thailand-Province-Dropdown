@@ -10,7 +10,7 @@ the extension for magento 2 to add province, district, subdistrict, zip code use
 
 # Testing
 
-- test on magento to version 2.4.6 comunity (ce)
+- test on magento to version 2.4.6 community (CE)
 
 ## Screenshots
 
